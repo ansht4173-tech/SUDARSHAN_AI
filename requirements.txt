@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+langchain-community
+chromadb
+streamlit
+python-dotenv
+pyttsx3
+playsound==1.2.2
+pytesseract
+pillow
+pdfplumber
+moviepy
+rich
+PyPDF2
+pillow
+pytesseract
+Pillow
